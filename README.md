@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sivakumar Devaraj
 
 - 🌱 I’m currently learning Full Stacks and AI/ML
-- <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTB4MWNhOG5wNHRwbmU2dXRzNWdueWRnaXB6aTgzeXVjOGlxbXowdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wykXzIq14JZJyVOiAa/giphy.gif">
+<!-- <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTB4MWNhOG5wNHRwbmU2dXRzNWdueWRnaXB6aTgzeXVjOGlxbXowdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wykXzIq14JZJyVOiAa/giphy.gif"> -->
 
 - ⚡ Fun fact: Analyzing Patterns in Real-Time(chess player)
 
