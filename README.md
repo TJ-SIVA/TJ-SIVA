@@ -21,7 +21,8 @@
 
 
 ### Git Status
-![TJ-SIVA's GitHub stats](https://githubcard.com/TJ-SIVA.svg?d=2RIXdlr6DH9T)
+![TJ-SIVA's GitHub stats](https://githubcard.com/TJ-SIVA.svg?d=2RIXdlr6DH9T) ![](https://streak-stats.demolab.com/?user=TJ-SIVA&theme=dark&hide_border=true)
+
 
 
 
